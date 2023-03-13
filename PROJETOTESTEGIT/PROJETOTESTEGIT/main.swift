@@ -6,6 +6,4 @@
 //
 
 import Foundation
-
-print("Hello, World!")
-
+var hello = "hello, world"
